@@ -11,7 +11,7 @@ Di tugas kali ini saya akan membagikan sedikit shering mengenai program membuat 
 ![Gambar 4](screenshoot/4.JPG)
 
 2. Tampilan program jiga di mobile(Henpone)<p>
-[Gambar 5](screenshoot/5.JPG)
+![Gambar 5](screenshoot/5.JPG)
 
 Oke jika kalian penasaran kalian bisa mencobanya langsung dengan scrip coding di file atas dan maaf jika saya belum bisa menjelaskan setep baiytep codingnya karna kurangnya, ilmu saya tapi inssayallah untuk kedepannya saya akan meningkatkannya terimakasih telah membaca hingga titik ini kurang lebih saya mohon maaf.<p>
 
