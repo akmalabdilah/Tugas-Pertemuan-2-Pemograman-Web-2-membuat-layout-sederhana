@@ -4,7 +4,7 @@ Assalam'mulaikum wr wb. <p>
 
 Di tugas kali ini saya akan membagikan sedikit shering mengenai program membuat layout sederhana menggunakan html dan css, tampa berlama lama lagi saya kan mesering foto hasil output programnya.<p>
 
-1. Tampilan program jiga di dektop(komputer)<p>
+1. Tampilan program jiga di dekstop(komputer)<p>
 ![Gambar 1](screenshoot/1.JPG)
 ![Gambar 2](screenshoot/2.JPG)
 ![Gambar 3](screenshoot/3.JPG)
