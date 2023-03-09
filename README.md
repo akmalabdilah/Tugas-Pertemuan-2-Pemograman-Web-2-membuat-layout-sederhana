@@ -15,5 +15,5 @@ Di tugas kali ini saya akan membagikan sedikit shering mengenai program membuat 
 
 Oke jika kalian penasaran kalian bisa mencobanya langsung dengan scrip coding di file atas dan maaf jika saya belum bisa menjelaskan setep baiytep codingnya karna kurangnya, ilmu saya tapi inssayallah untuk kedepannya saya akan meningkatkannya terimakasih telah membaca hingga titik ini kurang lebih saya mohon maaf.<p>
 
-Assalam'mualaikum wr wb<p.>
+Assalam'mualaikum wr wb<p>
 
